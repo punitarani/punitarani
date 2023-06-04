@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Punit Arani, currently studying Computer Science and Computational Mathematics.
+My interests and skills are broad and diverse, ranging from Embedded Systems to Quantum Computing.
+I enjoy constantly challenging myself and adapting to different tech environments.
+I spend my free time working on projects and learning everything I can.
+
+- Circuit and PCB Design with Altium and Eagle.
+- Firmware Development with C for STM32, Renesas and Arduino.
+- Backend Development with Python, Go, C# and Java.
+- Frontend Development with Svelte(Kit) and React.
+- Machine Learning and Artificial Intelligence with Python, PyTorch and Tensorflow.
+- Quantum Computing and Machine Learning with Qiskit.
+
+My primary interests are Embedded Machine Learning and AI at scale.
+
 ## Projects
 
 ### Quantitative Finance
@@ -43,18 +57,3 @@
 | [SB Hacks IX](https://devpost.com/software/rabbithole)                                             | [RabbitHole](https://github.com/punitarani/rabbithole)    | Learn Anything and Everything Faster and Efficiently | Python                  |                                                                       |
 | [AI SF 2023](https://devpost.com/software/intellirate)                                             | [IntelliRate](https://github.com/punitarani/fivestar)     | Shopping Decisions and Reviews Simplified            | Python                  |                                                                       |
 | [Climate AI Hackathon](https://devpost.com/software/sage-287gx5)                                   | [Sage](https://github.com/punitarani/sage)                | Research Faster, Better and Deeper                   | Python                  |                                                                       |
-
-<!--
-**punitarani/punitarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
