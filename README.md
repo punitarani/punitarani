@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Hackathons
+| Hackathon                                                                                          | Project                                                   | Description                                          | Tech Stack              | Prizes                                                                |
+|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------|-------------------------|-AI Mastermind, Climate Action Hero, Hacking Hero, and HealthTech Hero-|
+| [Hack@CEWIT2023](https://www.cewit.org/hackatcewit/About/Past%20Winners?accordion=content-d19e103) | [WasteNot](https://github.com/punitarani/wastenot)        | AI Powered Food Donation and Delivery Platform       | Python and React Native | HiFi Bounty For Using Pooled NFTs                                     |
+| [OuterEdge LA 2023](https://mpost.io/outer-edge-la-2023-hosts-hackathon-winners-announced/)        | [LiquidPool](https://github.com/punitarani/liquidpool-v2) | Add liquidity to [PooledNFT](https://poolednft.com/) | Next.JS                 |                                                                       |
+| [SB Hacks IX](https://devpost.com/software/rabbithole)                                             | [RabbitHole](https://github.com/punitarani/rabbithole)    | Learn Anything and Everything Faster and Efficiently | Python                  |                                                                       |
+| [AI SF 2023](https://devpost.com/software/intellirate)                                             | [IntelliRate](https://github.com/punitarani/intellirate)  | Shopping Decisions Simplified                        | Python                  |                                                                       |
+| [Climate AI Hackathon](https://devpost.com/software/sage-287gx5)                                   | [Sage](https://github.com/punitarani/sage)                | Research Faster, Better and Deeper                   | Python                  |                                                                       |
+
 <!--
 **punitarani/punitarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
