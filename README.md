@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Projects
+
+### Academic
+
+| Project                                          | Description                          |
+|--------------------------------------------------|--------------------------------------|
+| [MAT 494](https://github.com/punitarani/MAT-494) | Mathematical Methods in Data Science |
+| [MAT 421](https://github.com/punitarani/MAT-421) | Applied Computational Methods        |
+
 ### Hackathons
 
 | Hackathon                                                                                          | Project                                                   | Description                                          | Tech Stack              | Prizes                                                                |
