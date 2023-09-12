@@ -1,18 +1,35 @@
 ### Hi there 👋
 
-I'm Punit Arani, currently studying Computer Science and Computational Mathematics.
-My interests and skills are broad and diverse, ranging from Embedded Systems to Quantum Computing.
-I enjoy constantly challenging myself and adapting to different tech environments.
-I spend my free time working on projects and learning everything I can.
+I am Punit Arani, I'm a Computer Science major with a minor in Computational Mathematics.
+My interests and skills are broad and diverse, ranging from Embedded Systems to Distributed Systems to Quantum Computing.
+I spend my free time working on projects and learning anything and everything I can about technology.
 
-- Circuit and PCB Design with Altium and Eagle.
-- Firmware Development with C for STM32, Renesas and Arduino.
-- Backend Development with Python, Go, C# and Java.
-- Frontend Development with Svelte(Kit) and React.
-- Machine Learning and Artificial Intelligence with Python, PyTorch and Tensorflow.
-- Quantum Computing and Machine Learning with Qiskit.
+#### Research
 
-My primary interests are Embedded Machine Learning and AI at scale.
+- **NLP**: Autonomous agents and large-scale quantitative analysis with LLMs.
+
+#### Skills
+
+- **Backend Development**: Python, Go, C#, and Java.
+- **Frontend Development**: Svelte(Kit) and Next.JS (React).
+- **Machine Learning and Artificial Intelligence**: Python, PyTorch, and Scikit-Learn.
+- **Firmware Development**: Bare-metal and RTOS with C for STM32, Renesas, and Arduino.
+- **Hardware Development**: Circuit and PCB Design with Altium and Eagle.
+- **Quantum Computing and Machine Learning**: Python and Qiskit.
+
+My primary interests are Quantitative Finance and AI/ML at scale.
+
+## Hackathons
+
+| Hackathon                                                                                          | Project                                                    | Description                                          | Tech Stack              | Prizes                                                                |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- | ----------------------- | --------------------------------------------------------------------- |
+| [UC Berkeley AI Hackathon](https://ai.calhacks.io/)                                                | [Prosper AI](https://devpost.com/software/prosper-ai?)     | AI Powered Financial Advisor                         | Python and React        | Grand Prize                                                           |
+| [PennApps 24](https://2023f.pennapps.com/)                                                         | [DataDaddy](https://devpost.com/software/analyzeai-4aq2gb) | Autonomous ML and Exploratory Research Made Easy     | Python and Next.JS      | Best Financial Hack (sponsored by Capital One)                        |
+| [Hack@CEWIT2023](https://www.cewit.org/hackatcewit/About/Past%20Winners?accordion=content-d19e103) | [WasteNot](https://github.com/punitarani/wastenot)         | AI Powered Food Donation and Delivery Platform       | Python and React Native | AI Mastermind, Climate Action Hero, Hacking Hero, and HealthTech Hero |
+| [OuterEdge LA 2023](https://mpost.io/outer-edge-la-2023-hosts-hackathon-winners-announced/)        | [LiquidPool](https://github.com/punitarani/liquidpool-v2)  | Add liquidity to [PooledNFT](https://poolednft.com/) | Next.JS                 | HiFi Bounty For Using Pooled NFTs                                     |
+| [SB Hacks IX](https://devpost.com/software/rabbithole)                                             | [RabbitHole](https://github.com/punitarani/rabbithole)     | Learn Anything and Everything Faster and Efficiently | Python                  |                                                                       |
+| [AI SF 2023](https://devpost.com/software/intellirate)                                             | [IntelliRate](https://github.com/punitarani/fivestar)      | Shopping Decisions and Reviews Simplified            | Python                  |                                                                       |
+| [Climate AI Hackathon](https://devpost.com/software/sage-287gx5)                                   | [Sage](https://github.com/punitarani/sage)                 | Research Faster, Better and Deeper                   | Python                  |                                                                       |
 
 ## Projects
 
@@ -47,13 +64,3 @@ My primary interests are Embedded Machine Learning and AI at scale.
 | [IPBuf](https://github.com/punitarani/ipbuf)                   | InterPlanetary Protocol Buffers            | Go and Azure Functions |
 | [Parking Assist](https://github.com/punitarani/parking-assist) | Parking Assist with Lidar                  | Embedded C (STM32)     |
 | [restr](https://github.com/punitarani/restr)                   | Web App Mapping and Fuzzing Tool           | Python                 |
-
-## Hackathons
-
-| Hackathon                                                                                          | Project                                                   | Description                                          | Tech Stack              | Prizes                                                                |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ----------------------- | --------------------------------------------------------------------- |
-| [Hack@CEWIT2023](https://www.cewit.org/hackatcewit/About/Past%20Winners?accordion=content-d19e103) | [WasteNot](https://github.com/punitarani/wastenot)        | AI Powered Food Donation and Delivery Platform       | Python and React Native | AI Mastermind, Climate Action Hero, Hacking Hero, and HealthTech Hero |
-| [OuterEdge LA 2023](https://mpost.io/outer-edge-la-2023-hosts-hackathon-winners-announced/)        | [LiquidPool](https://github.com/punitarani/liquidpool-v2) | Add liquidity to [PooledNFT](https://poolednft.com/) | Next.JS                 | HiFi Bounty For Using Pooled NFTs                                     |
-| [SB Hacks IX](https://devpost.com/software/rabbithole)                                             | [RabbitHole](https://github.com/punitarani/rabbithole)    | Learn Anything and Everything Faster and Efficiently | Python                  |                                                                       |
-| [AI SF 2023](https://devpost.com/software/intellirate)                                             | [IntelliRate](https://github.com/punitarani/fivestar)     | Shopping Decisions and Reviews Simplified            | Python                  |                                                                       |
-| [Climate AI Hackathon](https://devpost.com/software/sage-287gx5)                                   | [Sage](https://github.com/punitarani/sage)                | Research Faster, Better and Deeper                   | Python                  |                                                                       |
