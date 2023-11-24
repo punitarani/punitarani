@@ -13,14 +13,16 @@ I aim to graduate with broad, in-demand technical abilities and a proven track r
 
 #### Skills
 
-- **Backend Development**: Python, Go, C#, and Java.
-- **Frontend Development**: Svelte(Kit) and Next.JS (React).
-- **Machine Learning and Artificial Intelligence**: Python, PyTorch, and Scikit-Learn.
+- **Languages**: Python, C/C++, JavaScript, Java, SQL
+- **Backend Frameworks**: Django, FastAPI, and Express.
+- **Frontend Frameworks**: React, SvelteKit and Next.JS.
+- **Machine Learning and Artificial Intelligence**: JAX, OpenCV, PyTorch, and Scikit-Learn.
 - **Firmware Development**: Bare-metal and RTOS with C for STM32, Renesas, and Arduino.
 - **Hardware Development**: Circuit and PCB Design with Altium and Eagle.
-- **Quantum Computing and Machine Learning**: Python and Qiskit.
+- **Cloud & DevOps**: AWS, Azure, CircleCI, Docker, and Terraform.
 
-My primary interests are Quantitative Finance and AI/ML at scale.
+I specialize in researching and developing Algorithms and ML systems to solve complex real-world problems.
+My focus areas are quantitative finance, scientific computing, and scalable AI systems.
 
 ## Hackathons
 
