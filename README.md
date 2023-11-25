@@ -62,14 +62,3 @@ My focus areas are quantitative finance, scientific computing, and scalable AI s
 | [MAT 494](https://github.com/punitarani/MAT-494)        | Mathematical Methods in Data Science | Python (Numpy, Pandas, Scipy)      |
 | [MAT 421](https://github.com/punitarani/MAT-421)        | Applied Computational Methods        | Python (Numpy, Pandas, Matplotlib) |
 | [CSE 360](https://github.com/punitarani/cse360-project) | Pizza Ordering System                | Java (JavaFX)                      |
-
-### Miscellaneous
-
-| Project                                                              | Description                                        | Tech Stack             |
-| -------------------------------------------------------------------- | -------------------------------------------------- | ---------------------- |
-| [Centarus](https://github.com/punitarani/centarus)                   | Fund Open Source Projects and Contributors         | Go and SvelteKit       |
-| [IPBuf](https://github.com/punitarani/ipbuf)                         | InterPlanetary Protocol Buffers                    | Go and Azure Functions |
-| [Parking Assist](https://github.com/punitarani/parking-assist)       | Parking Assist with Lidar                          | Embedded C (STM32)     |
-| [Prompt Gen](https://github.com/punitarani/centarus)                 | RLHF Prompt-Generation Generator                   | Python                 |
-| [Quantum Machine Learning](https://github.com/punitarani/quantum-ml) | Quantum Computing and Machine Learning with Qiskit | Python and Qiskit      |
-| [restr](https://github.com/punitarani/restr)                         | Web App Mapping and Fuzzing Tool                   | Python                 |
